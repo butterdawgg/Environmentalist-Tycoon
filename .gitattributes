@@ -2,4 +2,4 @@
 * text=auto
 
 * linguist-detectable=false
-*.py linguist-detectable=true
+*.cs linguist-detectable=true
