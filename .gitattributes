@@ -1,2 +1,5 @@
-* linguist-vendored
-*.cs linguist-detectable=true
+# Auto detect text files and perform LF normalization
+* text=auto
+
+* linguist-detectable=false
+*.py linguist-detectable=true
